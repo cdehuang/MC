@@ -1,0 +1,4 @@
+1. Make a file of the observations in your survey (as a .csv or as a .dat file). 
+2. If using a .csv, you can use "conversion.py" to divide this into multiple .dat files by the limiting magnitude (assumes that one survey has the same limiting magnitude). 
+3. Then proceed to edit the sn_param.cfg and put in the name of the file that you converted it to under 'observations' 
+4. 

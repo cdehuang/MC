@@ -1,0 +1,10 @@
+Updated:
+
+conversion.py
+removed debug.py
+monte_carlo.py (didn’t really do anything…it seems fine)
+
+
+new_volfun.py is the rewritten version of volfun.py (which is modified code from Leonidas). It's better than the old one because you can put in a paramter file of all the clusters, their deflection maps, and other stuff that you want to look at. 
+
+
